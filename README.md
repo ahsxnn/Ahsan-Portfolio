@@ -56,13 +56,13 @@ I focus on building scalable, maintainable, and production-ready software soluti
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ahsan-portfolio.git
+git clone https://github.com/ahsxnn/Ahsan-Portfolio.git
 ```
 
 ### Navigate to the Project
 
 ```bash
-cd ahsan-portfolio
+cd Ahsan-Portfolio
 ```
 
 ### Install Dependencies
